@@ -1,0 +1,1221 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"border-bo",
+				"border-bottom-width"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"total",
+				"total_width"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"mn_about",
+				"mn_about_traffic"
+			],
+			[
+				"dest",
+				"destinationFilename"
+			],
+			[
+				"destination",
+				"destinationPath"
+			],
+			[
+				"destin",
+				"destinationFilename"
+			],
+			[
+				"T",
+				"TARGET_NORMAL"
+			],
+			[
+				"a",
+				"all"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 674,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Preferences.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 15945,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/projects/environment/Intellij Idea 13/README.md",
+			"settings":
+			{
+				"buffer_size": 10,
+				"line_ending": "Unix",
+				"name": "README.md"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 374.0,
+		"selected_items":
+		[
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"console",
+				"Set Syntax: R Console"
+			],
+			[
+				"installpackage",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: list",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 408.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/projects/environment/SublimeText3/environment.sublime-project",
+		"/D/projects/environment/SublimeText3/Preferences.sublime-settings",
+		"/C/Users/flankerz/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/projects/php/newsmon/app/routes.php",
+		"/C/Users/flankerz/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/D/projects/php/newsmon/server.php",
+		"/C/Users/flankerz/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/D/projects/php/najeon-rtls/public/js/section.moving.js",
+		"/C/Program Files/Sublime Text 3/Packages/Color Scheme - Default.sublime-package",
+		"/D/projects/php/najeon-rtls/public/js/section.js",
+		"/D/projects/php/najeon-rtls/app/tests/TestCase.php",
+		"/D/projects/php/najeon-rtls/sftp-config.json",
+		"/D/projects/php/najeon-rtls/app/views/admin/login.blade.php",
+		"/D/projects/php/najeon-rtls/app/views/admin/sidebar.blade.php",
+		"/D/projects/php/najeon-rtls/app/controllers/AdminController.php",
+		"/D/projects/php/najeon-rtls/app/routes.php",
+		"/D/projects/php/najeon-rtls/app/config/app.php",
+		"/D/projects/php/najeon-rtls/public/css/admin.css",
+		"/D/projects/php/najeon-rtls/app/views/rtls_event_test.php",
+		"/D/projects/php/najeon-rtls/app/views/rtls_test.php",
+		"/D/projects/php/najeon-rtls/app/controllers/RtlsController.php",
+		"/D/projects/php/najeon-rtls/public/css/rtls_new.css",
+		"/D/projects/php/najeon-rtls/app/config/session.php",
+		"/D/projects/php/najeon-rtls/public/js/flot/examples/ajax/data-eu-gdp-growth.json",
+		"/D/projects/php/najeon-rtls/app/lang/en/pagination.php",
+		"/D/projects/php/najeon-rtls/public/js/cryptojs/components/pad-ansix923.js",
+		"/D/projects/php/najeon-rtls/app/database/production.sqlite",
+		"/D/projects/php/najeon-rtls/public/js/app.js",
+		"/D/projects/php/najeon-rtls/public/css/style.css",
+		"/D/projects/php/najeon-rtls/app/views/admin/index.blade.php",
+		"/D/projects/php/najeon-rtls/app/views/admin/template.blade.php",
+		"/D/projects/php/najeon-rtls/public/js/admin/admin.js",
+		"/D/projects/php/najeon-rtls/app/config/database.php",
+		"/C/Users/flankerz/AppData/Roaming/Sublime Text 3/Packages/SFTP/Default (Windows).sublime-keymap",
+		"/C/Users/flankerz/Downloads/csstidyonline.results.css",
+		"/C/Users/flankerz/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/flankerz/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/D/projects/php/najeon-rtls/app/views/rtls.php",
+		"/D/projects/php/najeon-rtls/app/views/rtls_new.php",
+		"/D/projects/php/najeon-rtls/public/css/rtls.css",
+		"/D/projects/php/najeon-rtls/public/m/css/rtls.css",
+		"/D/projects/php/najeon-mobile/sftp-config.json",
+		"/D/projects/php/najeon-mobile/public/css/style.css",
+		"/D/projects/php/najeon-mobile/app/views/rtls.php",
+		"/D/projects/php/najeon-mobile/najeon-mobile.sublime-project",
+		"/D/projects/php/najeon-mobile/public/js/cryptojs/components/mode-ofb.js",
+		"/D/projects/php/najeon-mobile/app/config/app.php",
+		"/D/projects/php/najeon-mobile/app/views/app.php",
+		"/D/projects/php/najeon-mobile/app/views/rtls_new.php",
+		"/D/projects/php/najeon-mobile/public/css/rtls.css",
+		"/D/projects/php/najeon-mobile/app/routes.php",
+		"/D/projects/php/najeon-mobile/public/css/rtls_new.css",
+		"/D/projects/php/najeon-mobile/app/controllers/RtlsController.php",
+		"/C/Users/flankerz/Desktop/새 폴더 - 복사본/local.data",
+		"/C/Users/flankerz/Desktop/새 폴더 - 복사본/global.data",
+		"/C/Users/flankerz/Desktop/새 폴더 - 복사본/discozoo.png",
+		"/D/projects/php/najeon-mobile/app/views/rtls_old.php",
+		"/D/projects/php/najeon-mobile/app/config/remote.php",
+		"/D/projects/php/najeon-mobile/app/views/position.php",
+		"/D/projects/php/najeon-mobile/public/m/js/app.js",
+		"/D/projects/php/najeon-mobile/app/config/mail.php",
+		"/D/projects/php/meetingmania/api/sftp-config.json",
+		"/D/projects/php/nuriseoultower/xe/addons/pop_up/pop_up.js",
+		"/D/projects/php/nuriseoultower/wp/wp-content/themes/webpaint/functions/page_options/page-options.js",
+		"/D/projects/php/nuriseoultower/lib/jwplayer/player.xml",
+		"/D/projects/php/nuriseoultower/xe/modules/editor/components/emoticon/tpl/popup.js",
+		"/D/projects/php/nuriseoultower/xe/modules/editor/tpl/popup.html",
+		"/D/projects/php/nuriseoultower/xe/common/tpl/popup_layout.html",
+		"/D/projects/php/nuriseoultower/xe/modules/board/skins/nuriseoultower_board/write_form.html",
+		"/D/projects/php/nuriseoultower/xe/modules/board/skins/nuriseoultower_center_faq/_header.html",
+		"/D/projects/php/nuriseoultower/xe/modules/board/skins/nuriseoultower_center_faq/_list.html",
+		"/D/projects/php/nuriseoultower/xe/modules/board/skins/nuriseoultower_center_faq/list.html",
+		"/D/projects/php/nuriseoultower/xe/layouts/nuriseoultower/layout.html",
+		"/D/projects/php/nuriseoultower/xe/layouts/nuriseoultower/css/style.css",
+		"/D/projects/php/nuriseoultower/xe/modules/pop_up/tpl/popup_conn_insert.html",
+		"/D/projects/php/nuriseoultower/xe/modules/pop_up/tpl/header.html",
+		"/D/projects/php/nuriseoultower/xe/modules/pop_up/tpl/js/popup_admin.js",
+		"/D/projects/php/nuriseoultower/xe/modules/pop_up/pop_up.admin.view.php",
+		"/D/projects/php/nuriseoultower/xe/modules/point/tpl/header.html",
+		"/D/projects/php/nuriseoultower/xe/modules/page/tpl/header.html",
+		"/D/projects/php/nuriseoultower/xe/modules/autoinstall/tpl/header.html",
+		"/D/projects/php/nuriseoultower/wp/wp-includes/theme-compat/header.php",
+		"/D/projects/php/nuriseoultower/xe/classes/security/htmlpurifier/library/HTMLPurifier/ConfigSchema/schema/HTML.SafeEmbed.txt",
+		"/D/projects/php/nuriseoultower/wp/wp-includes/http.php",
+		"/D/projects/php/nuriseoultower/wp/wp-includes/js/jquery/ui/jquery.ui.datepicker.min.js",
+		"/D/projects/php/nuriseoultower/xe/common/js/plugins/ui.calendar/ui.calendar.css",
+		"/D/projects/php/nuriseoultower/xe/modules/member/tpl/filter/update_denied_id.xml",
+		"/D/projects/php/nuriseoultower/xe/modules/autoinstall/queries/updateInstalledPackage.xml",
+		"/D/projects/php/nuriseoultower/wp/wp-admin/update.php",
+		"/D/projects/php/nuriseoultower/xe/modules/pop_up/tpl/filter/insert_pop_conn.xml",
+		"/D/projects/php/nuriseoultower/xe/modules/page/tpl/filter/insert_page.xml",
+		"/D/projects/php/nuriseoultower/xe/modules/member/tpl/insert_member.html",
+		"/D/projects/php/nuriseoultower/xe/files/ruleset/insertMember.xml",
+		"/D/projects/php/nuriseoultower/xe/tools/dbxml_validator/tests/data/duplicateColumnsInSelect.xml",
+		"/D/projects/php/nuriseoultower/xe/modules/module/queries/updateModuleInSites.xml",
+		"/D/projects/php/nuriseoultower/index.html",
+		"/D/projects/php/nuriseoultower/xe/modules/pop_up/queries/getPopupList.xml",
+		"/D/projects/php/nuriseoultower/xe/modules/pop_up/tpl/popup_conn_delete.html",
+		"/D/projects/php/nuriseoultower/xe/files/cache/module_info/pop_up.ko.1.7.3.8.php",
+		"/D/projects/php/nuriseoultower/xe/modules/pop_up/schemas/pop_ups.xml",
+		"/D/projects/php/nuriseoultower/xe/modules/pop_up/pop_up.admin.controller.php",
+		"/D/projects/php/nuriseoultower/xe/modules/pop_up/pop_up.model.php",
+		"/D/projects/php/nuriseoultower/xe/modules/pop_up/pop_up.controller.php",
+		"/D/projects/php/nuriseoultower/xe/modules/pop_up/pop_up.class.php",
+		"/D/projects/php/nuriseoultower/xe/addons/pop_up/pop_up.addon.php",
+		"/D/projects/php/nuriseoultower/xe/layouts/nuriseoultower/homepage.html",
+		"/D/projects/php/nuriseoultower/xe/modules/pop_up/queries/deletePopupConn.xml",
+		"/D/projects/php/nuriseoultower/xe/modules/pop_up/queries/insertPopupConn.xml",
+		"/D/projects/php/nuriseoultower/xe/modules/pop_up/queries/getPopupsForThisSrl.xml",
+		"/D/projects/php/nuriseoultower/xe/files/cache/queries/pop_up.getPopupsForThisSrl.1.7.3.8.mysql.cache.php",
+		"/D/projects/php/nuriseoultower/xe/modules/pop_up/queries/updatePopupConn.xml",
+		"/D/projects/php/nuriseoultower/xe/modules/editor/components/image_link/tpl/popup.js",
+		"/D/projects/php/nuriseoultower/xe/modules/editor/components/image_link/tpl/popup.html",
+		"/D/projects/php/nuriseoultower/xe/modules/editor/components/image_link/tpl/popup.css",
+		"/D/projects/php/nuriseoultower/xe/modules/editor/components/image_gallery/tpl/popup.js",
+		"/D/projects/php/nuriseoultower/xe/modules/editor/components/image_gallery/tpl/popup.html",
+		"/D/projects/php/nuriseoultower/xe/modules/editor/components/image_gallery/tpl/popup.css",
+		"/D/projects/php/nuriseoultower/xe/modules/editor/components/emoticon/tpl/popup.html",
+		"/D/projects/php/nuriseoultower/xe/modules/editor/components/emoticon/tpl/popup.css",
+		"/D/projects/php/nuriseoultower/xe/modules/admin/tpl/popup_layout.html",
+		"/D/projects/php/nuriseoultower/wp/wp-admin/link-parse-opml.php",
+		"/D/projects/php/nuriseoultower/xe/modules/board/skins/default/write_form.html",
+		"/D/projects/php/nuriseoultower/xe/modules/board/m.skins/simpleGray/write_form.html",
+		"/D/projects/php/nuriseoultower/xe/modules/board/m.skins/default/write_form.html",
+		"/D/projects/php/nuriseoultower/xe/modules/board/board.wap.php",
+		"/D/projects/php/nuriseoultower/xe/modules/board/board.api.php",
+		"/D/projects/php/nuriseoultower/xe/modules/board/tpl/board_delete.html",
+		"/D/projects/php/nuriseoultower/xe/modules/board/skins/xe_2008/_style.webzine.html"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"D:\\Projects\\php\\nuriseoultower",
+			"D:\\Projects\\php\\dongnaemon\\api",
+			"D:\\Projects\\php\\dongnaemon\\api\\app\\",
+			"D:\\Projects\\php\\dongnaemon\\api\\app\\controllers",
+			"D:\\Projects\\php\\dongnaemon\\api\\app",
+			"*.php",
+			"D:\\Projects\\php\\zzikdal_api\\application\\controllers\\v2\\page,C:\\Users\\flankerz\\Desktop\\Facebook_3.4\\out\\res\\layout",
+			"D:\\Projects\\php\\zzikdal_api\\application\\controllers\\v2\\page",
+			"*.js",
+			"*.php",
+			"",
+			"*.js",
+			"*.php",
+			"mt.*.js",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"theme",
+			"piggy",
+			"open",
+			"getElementById('monitor')",
+			"position",
+			"offset",
+			"zone-bubble",
+			"w_",
+			"transform",
+			"Transform",
+			"\"scale(\"+(scale)+\")\"",
+			"zoomSize",
+			"footer",
+			"height",
+			"width",
+			"table",
+			"overflow: hidden",
+			"table",
+			"mold_info_table",
+			"336px",
+			"animation_from",
+			"position_from",
+			"section_start",
+			"mold_moving",
+			"moving_step_s",
+			"zone_over_img",
+			"section == 9",
+			"<img src=\"/img/rtls/zone-sample-2.png\" class=\"zone_img\"/>",
+			"대기 금형",
+			"rtls.najeon.co.kr/mold_img",
+			"mold-",
+			"zone_img",
+			"<img src=\"/img/rtls/zone-sample.png\" class=\"zone_img\"/>",
+			"zone-sample-2",
+			"entypo",
+			"login-box",
+			"'before'=>'adminFilter', ",
+			"AdminController",
+			"'/admin",
+			"molds",
+			"get",
+			"Mold",
+			"molds",
+			".btn",
+			".btn-",
+			"control",
+			"if",
+			"src",
+			"indent",
+			"keys",
+			"text",
+			"zone_img",
+			"mold_img",
+			"this.src='http://rtls.najeon.co.kr/mold_img/1123.jpg'",
+			"mold_img/1123.jpg",
+			"/mold_img/",
+			"mold_img",
+			"/img/rtls/zone-sample.png",
+			"zone-sample",
+			"zone_img",
+			"is_login",
+			"detailview",
+			"get_location",
+			"input",
+			"download",
+			"trace",
+			"name",
+			"trace",
+			"session\\.",
+			"session\\.name",
+			"session.name",
+			"login_info_txt",
+			"login_info_txt\nlogin_info_txt",
+			"login_info_txt",
+			"search",
+			"detailView",
+			"page_home",
+			"locationView",
+			"detailView",
+			"\\.open",
+			"openMap",
+			"cust_mgr_",
+			"console.log(1)",
+			"login_id",
+			".expire",
+			"expire",
+			"_expire",
+			"autologin",
+			"is_login",
+			"save_id",
+			"attemptToLogin",
+			"login_id",
+			"http://rtls.najeon.co.kr/mold_img/1179.jpg",
+			"product_img",
+			"<img src=\"http://rtls.najeon.co.kr/mold_img/1179.jpg\" class=\"product_img\" onerror=\"this.src='http://rtls.najeon.co.kr/mold_img/1123.jpg'\" />",
+			"product_img",
+			"<img src=\"http://rtls.najeon.co.kr/mold_img/1179.jpg\" class=\"product_img\" onerror=\"this.src='http://rtls.najeon.co.kr/mold_img/1123.jpg'\"/>",
+			"<img src=\"http://rtls.najeon.co.kr/mold_img/1102.jpg\" class=\"product_img\" onerror=\"this.src='http://rtls.najeon.co.kr/mold_img/1123.jpg'\"/>",
+			"function next_section",
+			"next_section",
+			"setTimeout",
+			"6px solid",
+			"6px",
+			"data-row",
+			"<tr class=\"first-child\">\n							<th width=\"25%\" class=\"first-child\">위치</th>\n							<th width=\"13%\">차종</th>\n							<th width=\"62%\" class=\"last-child\">금형명</th>\n						</tr>",
+			"data-row",
+			"next_section",
+			"data-row",
+			"data-table",
+			"name",
+			"([0-9]*)",
+			"$",
+			"53",
+			"coin",
+			"key",
+			"1",
+			"0",
+			"$zones",
+			"show_section",
+			"\n							<th width=\"25%\" class=\"first-child\">위치</th>\n							<th width=\"10%\">차종</th>\n							<th width=\"65%\" class=\"last-child\">금형명</th>",
+			"\n							<th width=\"30%\" class=\"first-child\">위치</th>\n							<th width=\"10%\">차종</th>\n							<th width=\"60%\" class=\"last-child\">금형명</th>",
+			"th width=\"50",
+			"mold_name ",
+			"zone2",
+			"6",
+			"install1",
+			"zone5",
+			"zone2"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"($1),",
+			"(",
+			"\n							<th width=\"25%\" class=\"first-child\">위치</th>\n							<th width=\"13%\">차종</th>\n							<th width=\"62%\" class=\"last-child\">금형명</th>",
+			"\n							<th width=\"25%\" class=\"first-child\">위치</th>\n							<th width=\"10%\">차종</th>\n							<th width=\"65%\" class=\"last-child\">금형명</th>",
+			"\"area radius-fix\"",
+			"	",
+			"class=\"first-child ",
+			"first-child",
+			" class=\"first-child\"",
+			"12px solid",
+			"/xe/",
+			"\"",
+			"",
+			"{geturl('')}",
+			"	",
+			"/",
+			"{ tag:$1,enode:$2,x:$3,y:$4,z:$5 },",
+			",",
+			",\\n",
+			"{ tag:$1,enode:$2,x:$3,y:$4,z:$5 }",
+			"'",
+			"if (obj.has( \"$2\" ) {",
+			"//echo",
+			"block",
+			"update tb_users set town_latitude=$2, town_longitude=$3, town2='$4', town3='$5' where id=$1;",
+			" ",
+			".put",
+			"t.set",
+			"\"$1\", $1);",
+			";",
+			"MyISAM",
+			"$('#$1').text(data.$1);",
+			"NULL, 0, 0, 0,",
+			"NULL, 36",
+			"update tb_user set cash=cash+$3 where no = $2;",
+			"INSERT INTO `tb_point` VALUES ($1, 0, 0, 0, $2, 0, 0, $3, 0, $4, '', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP, NULL);",
+			"51~100위",
+			"0\\t$1\\t$2\\t'랭킹게임 1위'",
+			"$1\\t100\\t'CPI 적립'",
+			"'$1',",
+			"$1\\t500\\t'사용자리뷰 적립'",
+			"$1\\t500",
+			"'$1',",
+			"'$1'",
+			"update tb_user set cash=cash+200 where no = $1;",
+			"INSERT INTO `tb_point` VALUES (NULL, 0, 0, 0, $1, 0, 0, 200, 0, '페이스북 추가적립 (낫츠얼짝찍기1차)', '', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP);",
+			"\\n",
+			"','",
+			"zzikdal_event_2_new_ad_2.jpg",
+			"	",
+			"<?php echo URL::base() ?>",
+			"\\$$1 = (int)(\\$$2 > 0 ? \\$$2 : \\$$1)",
+			"$$1 = (int)($$2 > 0 ? $$2 : $$1)",
+			"$bonus_play_info['$1'] = (int)",
+			"'] = $play->",
+			"$play_info['",
+			" => 0,",
+			"$1",
+			"	",
+			"array(\n",
+			"array\n",
+			"),\n",
+			")\n",
+			"array",
+			"=> \"$1\",",
+			" => \"",
+			"\"",
+			"$stat",
+			"mt-clearfix",
+			"include '",
+			"';",
+			"비디오",
+			"video",
+			"addon",
+			"image",
+			"DB::",
+			"Input::get($1)",
+			"created_at",
+			"전",
+			"\\t",
+			"DB::",
+			"Input::get($1)",
+			"Input::post($1)"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 674,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								674,
+								674
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Preferences.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15945,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/D/projects/environment/Intellij Idea 13/README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10,
+								10
+							]
+						],
+						"settings":
+						{
+							"auto_name": "README.md",
+							"incomplete_sync": null,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 130.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 250.0
+	},
+	"project": "environment.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"routes",
+				"app\\routes.php"
+			],
+			[
+				"sction.mo",
+				"public\\js\\section.moving.js"
+			],
+			[
+				"section.moving",
+				"public\\js\\section.moving.js"
+			],
+			[
+				"rtlscontr",
+				"app\\controllers\\RtlsController.php"
+			],
+			[
+				"rtls_new.css",
+				"public\\css\\rtls_new.css"
+			],
+			[
+				"rtls.php",
+				"app\\views\\rtls.php"
+			],
+			[
+				"app.",
+				"app\\config\\app.php"
+			],
+			[
+				"admin",
+				"app\\controllers\\AdminController.php"
+			],
+			[
+				"sidebar",
+				"app\\views\\admin\\sidebar.blade.php"
+			],
+			[
+				"routs",
+				"app\\routes.php"
+			],
+			[
+				"admin.css",
+				"public\\css\\admin.css"
+			],
+			[
+				"style.css",
+				"public\\css\\style.css"
+			],
+			[
+				"databa",
+				"app\\config\\database.php"
+			],
+			[
+				"admincont",
+				"app\\controllers\\AdminController.php"
+			],
+			[
+				"rtls_",
+				"public\\css\\rtls_new.css"
+			],
+			[
+				"rtls_new",
+				"app\\views\\rtls_new.php"
+			],
+			[
+				"st",
+				"public\\css\\style.css"
+			],
+			[
+				"style",
+				"public\\css\\style.css"
+			],
+			[
+				"session.php",
+				"app\\config\\session.php"
+			],
+			[
+				"mobilecontroller",
+				"app\\controllers\\MobileController.php"
+			],
+			[
+				"app.js",
+				"public\\js\\app.js"
+			],
+			[
+				"app.php",
+				"app\\views\\app.php"
+			],
+			[
+				"rtls_ew",
+				"public\\css\\rtls_new.css"
+			],
+			[
+				"rtls.css",
+				"public\\css\\rtls.css"
+			],
+			[
+				"pop_up",
+				"xe\\addons\\pop_up\\pop_up.js"
+			],
+			[
+				"pop_upheader.html",
+				"xe\\modules\\pop_up\\tpl\\header.html"
+			],
+			[
+				"modulepop_up",
+				"xe\\modules\\pop_up\\tpl\\popup_conn_insert.html"
+			],
+			[
+				"pop_uppopup",
+				"xe\\addons\\pop_up\\pop_up.js"
+			],
+			[
+				"boardwrite",
+				"xe\\modules\\board\\skins\\nuriseoultower_board\\write_form.html"
+			],
+			[
+				"faq_head",
+				"xe\\modules\\board\\skins\\nuriseoultower_center_faq\\_header.html"
+			],
+			[
+				"faq_list",
+				"xe\\modules\\board\\skins\\nuriseoultower_center_faq\\_list.html"
+			],
+			[
+				"faqlist",
+				"xe\\modules\\board\\skins\\nuriseoultower_center_faq\\list.html"
+			],
+			[
+				"nuristyle.css",
+				"xe\\layouts\\nuriseoultower\\css\\style.css"
+			],
+			[
+				"nurihomepage",
+				"xe\\layouts\\nuriseoultower\\homepage.html"
+			],
+			[
+				"nurilayout",
+				"xe\\layouts\\nuriseoultower\\layout.html"
+			],
+			[
+				"saycontr",
+				"api/app/controllers/SayController.php"
+			],
+			[
+				"usercontr",
+				"api/app/controllers/UserController.php"
+			],
+			[
+				"heart.php",
+				"api/app/models/Heart.php"
+			],
+			[
+				"plaza.php",
+				"api/app/models/Plaza.php"
+			],
+			[
+				"saycontroller",
+				"api/app/controllers/SayController.php"
+			],
+			[
+				"usercon",
+				"app/controllers/UserController.php"
+			],
+			[
+				"alarmcontroller",
+				"app/controllers/AlarmController.php"
+			],
+			[
+				"usercontro",
+				"app/controllers/UserController.php"
+			],
+			[
+				"saycontro",
+				"app/controllers/SayController.php"
+			],
+			[
+				"messagecontroller",
+				"app/controllers/MessageController.php"
+			],
+			[
+				"route",
+				"app/routes.php"
+			],
+			[
+				"location.php",
+				"app/models/Location.php"
+			],
+			[
+				"usercontroller",
+				"app/controllers/UserController.php"
+			],
+			[
+				"alarm.php",
+				"app/models/Alarm.php"
+			],
+			[
+				"heart",
+				"app/models/Heart.php"
+			],
+			[
+				"store",
+				"app/controllers/StoreController.php"
+			],
+			[
+				"controller",
+				"app/controllers/SayController.php"
+			],
+			[
+				"auction",
+				"app/models/Auction.php"
+			],
+			[
+				"mqtt",
+				"app/libraries/MQTT.php"
+			],
+			[
+				"push",
+				"app/models/Push.php"
+			],
+			[
+				"messagecontr",
+				"app/controllers/MessageController.php"
+			],
+			[
+				"user.php",
+				"app/models/User.php"
+			],
+			[
+				"storecontr",
+				"app/controllers/StoreController.php"
+			],
+			[
+				"user",
+				"app/models/User.php"
+			],
+			[
+				"model",
+				"app/models/Alarm.php"
+			],
+			[
+				"push.php",
+				"app/models/Push.php"
+			],
+			[
+				"alarmcontr",
+				"app/controllers/AlarmController.php"
+			],
+			[
+				"test.php",
+				"app/libraries/test.php"
+			],
+			[
+				"carbon",
+				"vendor/nesbot/carbon/Carbon/Carbon.php"
+			],
+			[
+				"s",
+				"sftp-config.json"
+			],
+			[
+				"symfony/component/httpfoundation/uploadedf",
+				"vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/File/UploadedFile.php"
+			],
+			[
+				"v2cpi",
+				"application/controllers/v2/cpi.php"
+			],
+			[
+				"v2store",
+				"application/controllers/v2/store.php"
+			],
+			[
+				"v2user.php",
+				"application/controllers/v2/user.php"
+			],
+			[
+				"v2cpi.php",
+				"application/controllers/v2/cpi.php"
+			],
+			[
+				"v2user",
+				"application/controllers/v2/user.php"
+			],
+			[
+				"v2test",
+				"application/controllers/v2/test.php"
+			],
+			[
+				"mypage",
+				"application/controllers/page/mypage.php"
+			],
+			[
+				"v1app",
+				"application/controllers/v1/app.php"
+			],
+			[
+				"v2app",
+				"application/controllers/v2/app.php"
+			],
+			[
+				"cpi",
+				"application/controllers/v2/cpi.php"
+			],
+			[
+				"cpi.php",
+				"application/controllers/v1/cpi.php"
+			],
+			[
+				"v1app.php",
+				"application/controllers/v1/app.php"
+			],
+			[
+				"notice.php",
+				"application/models/notice.php"
+			],
+			[
+				"auth.php",
+				"laravel/tests/application/controllers/auth.php"
+			],
+			[
+				"",
+				"application/controllers/v2/user.php"
+			],
+			[
+				"storeindex",
+				"application/views/page/storeindex.php"
+			],
+			[
+				"v1cpi.php",
+				"application/controllers/v1/cpi.php"
+			],
+			[
+				"modelpoint",
+				"application/models/point.php"
+			],
+			[
+				"v1test.p",
+				"application/controllers/v1/test.php"
+			],
+			[
+				"controllerpagestore",
+				"application/controllers/page/store.php"
+			],
+			[
+				"viewmypage",
+				"application/views/page/mypage.php"
+			],
+			[
+				"modeluser",
+				"application/models/user.php"
+			],
+			[
+				"guide.blade",
+				"application/views/page/guide.blade.php"
+			],
+			[
+				"faq.blade",
+				"application/views/page/faq.blade.php"
+			],
+			[
+				"pagenotice",
+				"application/views/page/notice.blade.php"
+			],
+			[
+				"v1ts",
+				"application/controllers/v1/test.php"
+			],
+			[
+				"v1cpi",
+				"application/controllers/v1/cpi.php"
+			],
+			[
+				"t",
+				"application/controllers/v1/test.php"
+			],
+			[
+				"point",
+				"application/models/point.php"
+			],
+			[
+				"store.",
+				"application/views/page/storeindex.php"
+			],
+			[
+				"test",
+				"application/controllers/v1/test.php"
+			],
+			[
+				"ad.php",
+				"application/models/ad.php"
+			],
+			[
+				"user.",
+				"application/controllers/v1/user.php"
+			],
+			[
+				"myp",
+				"application/views/page/mypage.php"
+			],
+			[
+				"index.php",
+				"public_api/index.php"
+			],
+			[
+				"mt.plugin.php",
+				"public_api/js/mt.plugin.php"
+			],
+			[
+				"comment.php",
+				"app_api/controllers/comment.php"
+			],
+			[
+				"skill.js",
+				"public_api/js/mt.addon.skill.js"
+			],
+			[
+				"facebook.js",
+				"public_api/js/mt.provider.facebook.js"
+			],
+			[
+				"mt.default.css",
+				"public_api/css/mt.default.css"
+			],
+			[
+				"addon.poll.css",
+				"public_api/css/mt.addon.poll.css"
+			],
+			[
+				"post.php",
+				"app_api/controllers/post.php"
+			],
+			[
+				"plugin.php",
+				"public_api/js/mt.plugin.php"
+			],
+			[
+				"image.js",
+				"public/js/mt.addon.image.js"
+			],
+			[
+				"mt.",
+				"public/js/mt.js"
+			],
+			[
+				"mt.str",
+				"public/js/mt.str.js"
+			],
+			[
+				"mt.cm",
+				"public/js/mt.cmt.js"
+			],
+			[
+				"mt.plugin.skill.js",
+				"public/js/mt.plugin.skill.js"
+			],
+			[
+				"mt.ui.",
+				"public/js/mt.ui.js"
+			],
+			[
+				"mt.provider.twitter",
+				"public/js/mt.provider.twitter.js"
+			],
+			[
+				"facebook.php",
+				"app_api/controllers/auth/facebook.php"
+			],
+			[
+				"start.php",
+				"bundles/twitter-oauth/start.php"
+			],
+			[
+				"twitter.php",
+				"app_api/controllers/auth/twitter.php"
+			],
+			[
+				"mt.provider.twitter.js",
+				"public/js/mt.provider.twitter.js"
+			],
+			[
+				"mt.js",
+				"public/js/mt.js"
+			],
+			[
+				"faceb",
+				"app_api/controllers/auth/facebook.php"
+			],
+			[
+				"mt.io",
+				"public/js/mt.io.js"
+			],
+			[
+				"mt.provider.face",
+				"public/js/mt.provider.facebook.js"
+			],
+			[
+				"date.php",
+				"app_api/libraries/date.php"
+			],
+			[
+				"appli",
+				"app_api/config/application.php"
+			],
+			[
+				"index",
+				"public_api/index.php"
+			],
+			[
+				"mt.plugin.poll",
+				"public/js/mt.plugin.poll.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 282.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
